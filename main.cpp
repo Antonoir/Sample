@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main() 
+int main()
 {
-    cout << "Hello, World!";
+    std::cout << "PAT_DINASAUROR";
     return 0;
 }
