@@ -3,8 +3,11 @@
 int main(int argc, char* argv)
 {
 		//first commit to frankzz
+<<<<<<< HEAD
     std::cout << "77 PAT_DINASAUROR purple";
+=======
     std::cout << "GoodNight World";
+>>>>>>> fb465cbd1736f1c45a1021bd7e326fcc20317225
 		//horribilis
     return 0;
 }
