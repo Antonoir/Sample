@@ -3,7 +3,7 @@
 int main(int argc, char* argv)
 {
 		//first commit to frankzz
-    std::cout << "PAT_DINASAUROR purple";
+    std::cout << "GoodNight World";
 		//horribilis
     return 0;
 }
