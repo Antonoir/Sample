@@ -2,6 +2,6 @@
 
 int main() 
 {
-    cout << "Hello, World!";
+    std::cout << "GodNight World";
     return 0;
 }
